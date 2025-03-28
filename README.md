@@ -1,5 +1,7 @@
 # Testcontainers Dapr Module
 
+**NOTE**: this repository is now archived, as all this functionality is now in the Dapr Java SDK repository. 
+
 This repository contains the Testcontainers Dapr Module. The `DaprContainer` allows you to set up Dapr for local development in your Java applications, providing by default an in-memory implementation of the Dapr APIs.
 
 To use this Testcontainer module from your Java application you can add the following dependency to your Maven project: 
